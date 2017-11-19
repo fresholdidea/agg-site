@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandra Gibson | Speech Language Therapist based in New York City</title>
+    <link>http://alexandragibsonslp.com/</link>
+    <description>Recent content on Alexandra Gibson | Speech Language Therapist based in New York City</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Untitled.</copyright>
+    
+	<atom:link href="http://alexandragibsonslp.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
